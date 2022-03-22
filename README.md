@@ -1,7 +1,3 @@
-<p id="header" align="center">
-  <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="100"/>
-</p>
-  
 ### :woman_technologist: About Me :
 ---
 
