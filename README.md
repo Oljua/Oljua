@@ -1,12 +1,10 @@
-### :woman_technologist: About Me :
----
+# <p align="center">Hi there!  :wave:</p>	
 
-I am an analyst:
- - Engaged in the analysis and systematization of regulatory and reference information :bar_chart:
- - Learning Python and libraries for data analysis :snake:	
+I'm Oljua and I studying python and work with data make using Python.
+Before learning python engaged in the analysis and systematization of regulatory and reference information :bar_chart:
  
  
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My skills :
 ---
 
   <div>
@@ -24,3 +22,4 @@ I am an analyst:
 ### :chart_with_upwards_trend: My Stats :
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oljua&theme=%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9&hide_border=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=D9B974&border=FFFFFF&ring=D9B974&fire=D9B974&currStreakNum=D9B974&currStreakLabel=F1DDCC&sideNums=F1DDCC)](https://git.io/streak-stats)
+
