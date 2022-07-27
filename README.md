@@ -1,8 +1,6 @@
 # <p align="center">Hi there!  :wave:</p>	
 
-I'm Oljua and I studying python and work with data make using Python.
-Before learning python engaged in the analysis and systematization of regulatory and reference information :bar_chart:
- 
+
  
 ### :hammer_and_wrench: My skills :
 ---
